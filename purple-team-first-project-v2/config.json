@@ -1,0 +1,4 @@
+{
+  "log_file": "sample_logs/auth.log",
+  "brute_force_threshold": 5
+}
